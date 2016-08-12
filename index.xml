@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<index version="1" name="21ZNA9 Scripts" commit="2f9936159f9f5b9f419e685b238b17597279af84">
+  <category name="ReaScripts/Render">
+    <reapack name="Render items to new take (using all of source).lua" type="script">
+      <version name="1.0" author="21ZNA9" time="2016-08-12T22:57:30Z">
+        <changelog><![CDATA[+ Initial release]]></changelog>
+        <source main="true">https://github.com/21ZNA9/ReaPack/raw/2f9936159f9f5b9f419e685b238b17597279af84/ReaScripts/Render/Render%20items%20to%20new%20take%20(using%20all%20of%20source).lua</source>
+      </version>
+    </reapack>
+  </category>
+</index>
